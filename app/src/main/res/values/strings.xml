@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TresActividades</string>
+    <string name="texto1">Prueba 1 </string>
+    <string name="texto2">Challenge: Create an app with three Button elements labeled Text One, Text Two, and Text Three. When any of these Button elements are clicked, launch a second Activity. That second Activity should contain a ScrollView that displays one of three text passages (you can include your choice of passages). Use an Intent to launch the second Activity with extras to indicate which of the three passages to display. Challenge: Create an app with three Button elements labeled Text One, Text Two, and Text Three.Challenge: Create an app with three Button elements labeled Text One, Text Two, and Text Three.Challenge: Create an app with three Button elements labeled Text One, Text Two, and Text Three.Challenge: Create an app with three Button elements labeled Text One, Text Two, and Text Three.Challenge: Create an app with three Button elements labeled Text One, Text Two, and Text Three.Challenge: Create an app with three Button elements labeled Text One, Text Two, and Text Three.Challenge: Create an app with three Button elements labeled Text One, Text Two, and Text Three.Challenge: Create an app with three Button elements labeled Text One, Text Two, and Text Three.
+
+
+
+
+
+
+
+    </string>
+    <string name="texto3">El timo de la masa madre: un estudio revela que el 75% del pan que se vende con este nombre en realidad no lo es </string>
+    <string name="textview">TextView</string>
+    <string name="button1Text">Text One</string>
+    <string name="button2Text">Text Two</string>
+    <string name="button3Text">Text Three</string>
+    <string name="activity_main2">Actividad 2</string>
+</resources>
